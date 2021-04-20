@@ -1,0 +1,68 @@
+
+body{
+    background-image:url("images/avengers.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height:150vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    width: -100vh;
+    display: flex;
+
+}
+
+#container{
+    width:33%;
+    height: 100%;
+    float: right;
+    background-color: white;
+    padding: 3%;
+    border-radius: 2%;
+    margin:10% 20%;
+    min-height: 700px;
+    max-height: 2310px;
+}
+
+input{
+    width:100%;
+    border-color: transparent;
+    border-bottom: 1px solid #f1f1f1;
+
+}
+section{
+    size:20%;
+    border-color: transparent;
+    border-bottom: 1px solid #f1f1f1;
+}
+.henry{
+    background-color: rgb(111, 111, 231);
+    border-radius: 100%;
+}
+.jude{
+    font-size: 110%;
+}
+
+.willie{
+    background-color: rgb(67, 67, 233);
+    border-radius:30px;
+    margin-left: 60%;
+    padding: 13px 13px;
+    color: white;
+    border: 2px solid #1060c9;
+}
+.red{
+    color: rgba(7, 7, 8, 0.5);
+}
+.james{
+    color: blue;
+}
+.paul{
+    margin-top: 60%;
+    margin-left: 10%;
+}
+.cl{
+    color: white;
+}
+.oct{
+    display: inline-block;
+}
